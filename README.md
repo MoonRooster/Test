@@ -4,9 +4,9 @@
 ## Test
 ### Test
 
-**Bolded** Font.
+# **Bolded** Font.
 
-Points
+# Points
 
 - Thema 1
 - Thema 2

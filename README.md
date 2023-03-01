@@ -4,10 +4,10 @@
 ## Test
 ### Test
 
-**Bolded Font**.
+**Bolded** Font.
 
-**Points**
+Points
 
-**- Thema 1**
-**- Thema 2**
-**- Thema 3**
+- Thema 1
+- Thema 2
+- Thema 3

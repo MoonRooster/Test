@@ -4,7 +4,8 @@
 ## Test
 ### Test
 
-# **Bolded** Font.
+# Bolded Fonts
+**Bolded** fonts
 
 # Points
 

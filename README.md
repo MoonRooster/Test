@@ -1,4 +1,4 @@
-Font Size
+**Font Size**
 
 # Test
 ## Test
@@ -6,8 +6,8 @@ Font Size
 
 **Bolded Font**.
 
-Points
+**Points**
 
-- Thema 1
-- Thema 2
-- Thema 3
+**- Thema 1**
+**- Thema 2**
+**- Thema 3**
